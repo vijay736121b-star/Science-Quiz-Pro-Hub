@@ -34,9 +34,7 @@ Science Quiz Pro is created to help students and science enthusiasts test their 
 
 ## 📱 Application
 
-**App Name:** Science Quiz Pro
-
-**Package ID:** `io.github.vijay736121b_star.twa`
+**App Name:** Science Quiz Pro hub
 
 ## 🔐 Privacy
 
