@@ -1,0 +1,6 @@
+{
+  "name": "Science Quiz Pro",
+  "description": "A clean, modern, lightweight science quiz app with 51 multiple-choice questions, instant feedback, explanations, and timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
